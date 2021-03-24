@@ -31,6 +31,8 @@ module.exports = withLinaria({
 - next-linaria
 - @babel/core
 
+**NOTICE** [@zeit/next-css](https://www.npmjs.com/package/@zeit/next-css) also can be used for linaria setting up. But it is deprecated. So I recommend use `next-linaria`
+
 ## How to use
 
 ```react
